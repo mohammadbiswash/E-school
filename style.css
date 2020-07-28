@@ -1,0 +1,94 @@
+
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+p{
+    font-weight: 300;
+    color: gray;
+}
+.container{
+    padding-bottom: 100px;
+
+}
+                        /*HEADER-AREA*/
+.header-area{
+width: 1440px;
+height: 576px;
+left: 0px;
+top: 0px;
+
+background: #F0FFF0;
+}
+                        /*NAVBAR*/
+.logo{
+    width: 200px;
+}
+.logo img {
+    width: 125%;
+}
+.button{
+    border-radius: 30px;
+    padding: 5px 20px;
+}
+
+                        /* bannar-area */
+.question{
+    color: red;
+}
+h1{
+    font-weight: 700;
+}
+.green{
+    color: green;
+}
+                            /*Books-area*/
+.Books{
+    padding-top: 50px;
+}
+.book-card {
+	width: 100px;
+	margin: auto;
+	margin-top: 20px;
+}
+.card-color {
+	border: none;
+	background: #F8FFFB !important;
+	border-radius: 10px;
+}
+.card-special {
+	box-shadow: 1px 4px 20px lightgray;
+}
+                            /*ONLINE-COURSES*/
+.h1-heighlite{
+    padding-bottom: 100px;
+}
+.card-flow {
+	border: none;
+	box-shadow: 5px 5px 20px lightgray;
+	border-radius: 20px;
+}
+.mini-icon{
+    width: 27px;
+}
+.footer{
+    padding: 20px 10px;
+}
+                           /*Testimonial*/
+.man-img{
+    width: 150px;
+}
+                            /*footer*/
+footer{
+    background-color: black;
+}
+footer p{
+    color: whitesmoke;
+}
+footer h3{
+    color: wheat;
+}
+footer a p {
+    padding: 0px 0;
+    color: white;
+}
